@@ -6,6 +6,5 @@ setup(
    description='',
    author='',
    author_email='',
-   packages=['factorial'],  #same as name
    install_requires=[], #external packages as dependencies
 )
