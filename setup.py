@@ -7,6 +7,7 @@ setup(
    description='',
    author='',
    author_email='',
+   modules=['.'],
    install_requires=[], #external packages as dependencies
    zip_safe=False
  )
