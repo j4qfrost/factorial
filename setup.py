@@ -7,7 +7,6 @@ setup(
    description='',
    author='',
    author_email='',
-   modules=['factorial'],
    install_requires=[], #external packages as dependencies
    zip_safe=False
  )
