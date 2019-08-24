@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
    name='factorial',
    url='https://github.com/j4qfrost/factorial.git',
-   version='1.0',
+   version='0.1.0',
    description='',
    author='',
    author_email='',
